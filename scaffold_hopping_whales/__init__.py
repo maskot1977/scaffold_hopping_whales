@@ -1,4 +1,4 @@
-import .ChemTools
-import .lcm
-import .mol_properties
-import .do_whales
+from .ChemTools import *
+from .lcm import *
+from .mol_properties import *
+from .do_whales import *

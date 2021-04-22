@@ -21,5 +21,5 @@ setuptools.setup(
     entry_points = {
         'console_scripts': ['sample_command = sample_command.sample_command:main']
     },
-    #python_requires='>=3.6',
+    python_requires='>=3.6',
 )
